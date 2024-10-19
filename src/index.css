@@ -1,0 +1,20 @@
+.borderr {
+  border: 1px solid red;
+
+}
+* {
+  font-weight: 900;
+  margin: 0; 
+   padding: 0 ;
+  box-sizing: border-box;
+  font-family: "Inknut Antiqua", serif !important;
+
+}
+
+/* removing padding from Navbar   */
+.css-1hdvzm3{
+   padding: 0px !important; 
+}
+.css-14jhzr5{
+  padding: 0px !important;
+}
